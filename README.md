@@ -5,11 +5,11 @@ package animaisfauna;
  *
  * @author RicardoViana962
 */
-   public static void main(String[] args) {      
+public static void main(String[] args) {      
         
-// TODO code application logic here
 
-public class AnimaisFauna {
+
+    public class AnimaisFauna {
     protected int ID;
     protected String nome;
     public AnimaisFauna(int ID, String nome){
